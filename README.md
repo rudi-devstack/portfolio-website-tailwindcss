@@ -20,10 +20,10 @@ Proyek ini dibuat sebagai latihan membangun website portfolio statis yang modern
 
 ## 📸 Tampilan Website
 
-![preview](img/Screenshot.png)
+![preview](img/preview.png)
 
 ---
 
 ## 🎥 Sumber Tutorial
 Tutorial ini berasal dari channel YouTube Web Programming UNPAS (WPU)
-Link video: [Membuat Website Portfolio Menggunakan TAILWIND CSS 3](https://youtube.com/playlist?list=PLFIM0718LjIWaNi4oDdN49FTlznrWU9w2&si=tdaQkUbp1RWWsbuL)
+Link video: [Membuat Website Portfolio Menggunakan TAILWIND CSS 3](https://youtu.be/8Ea4oq8qFtM?si=28ZedijaOVqgvKJt)
