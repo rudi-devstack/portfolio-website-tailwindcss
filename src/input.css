@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar-fixed {
+  @apply fixed z-[999] bg-white bg-opacity-80 shadow-md dark:bg-dark dark:bg-opacity-80 dark:border-b-2 dark:border-slate-800;
+  backdrop-filter: blur(5px);
+}
+.nav-active {
+  display: block;
+}
+.hamburger-active > span:nth-child(1) {
+  @apply -rotate-45;
+}
+.hamburger-active > span:nth-child(2) {
+  @apply scale-0;
+}
+.hamburger-active > span:nth-child(3) {
+  @apply rotate-45;
+}
+.mode-dark-active {
+  @apply text-white font-bold bg-gradient-to-br from-sky-400 to-sky-600 rounded-full;
+}
+.mode-light-active {
+  @apply text-white font-black bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-full;
+}
+.mode-none-active {
+  @apply bg-transparent text-opacity-80 rounded-full;
+}
